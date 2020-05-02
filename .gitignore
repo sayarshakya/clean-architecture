@@ -1,0 +1,7 @@
+/.vs
+/Vesuvio.Generics.Application/bin
+/Vesuvio.Generics.Application/obj
+/Vesuvio.Generics.Domain/bin
+/Vesuvio.Generics.Domain/obj
+/Vesuvio.Generics.Infrastructure/bin
+/Vesuvio.Generics.Infrastructure/obj
