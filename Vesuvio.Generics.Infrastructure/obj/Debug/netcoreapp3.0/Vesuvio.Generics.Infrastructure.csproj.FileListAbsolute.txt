@@ -1,0 +1,15 @@
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.deps.json
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.runtimeconfig.json
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.runtimeconfig.dev.json
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.dll
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.pdb
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\obj\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.csprojAssemblyReference.cache
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\obj\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\obj\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.AssemblyInfo.cs
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\obj\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.dll
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\obj\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.pdb
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Application.dll
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Domain.dll
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Application.pdb
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\bin\Debug\netcoreapp3.0\Vesuvio.Generics.Domain.pdb
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Infrastructure\obj\Debug\netcoreapp3.0\Vesuvio.Generics.Infrastructure.csproj.CopyComplete

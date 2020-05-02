@@ -1,0 +1,8 @@
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Domain\bin\Debug\netstandard2.1\Vesuvio.Generics.Domain.deps.json
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Domain\bin\Debug\netstandard2.1\Vesuvio.Generics.Domain.dll
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Domain\bin\Debug\netstandard2.1\Vesuvio.Generics.Domain.pdb
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Domain\obj\Debug\netstandard2.1\Vesuvio.Generics.Domain.AssemblyInfoInputs.cache
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Domain\obj\Debug\netstandard2.1\Vesuvio.Generics.Domain.AssemblyInfo.cs
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Domain\obj\Debug\netstandard2.1\Vesuvio.Generics.Domain.dll
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Domain\obj\Debug\netstandard2.1\Vesuvio.Generics.Domain.pdb
+C:\Users\Vesuvio Labs\source\repos\Vesuvio.Generics.Api\Vesuvio.Generics.Domain\obj\Debug\netstandard2.1\Vesuvio.Generics.Domain.csprojAssemblyReference.cache
